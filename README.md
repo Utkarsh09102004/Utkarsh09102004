@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Utkarsh Agarwal, currently pursuing my Btech in Computer Science from Thapar Institute. 
+I am <b>Hello</b>
