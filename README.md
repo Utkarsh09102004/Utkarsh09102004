@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I am Utkarsh Agarwal, currently pursuing my Btech in Computer Science from Thapar Institute. 
 
-I have built projects in <b>Django</b> I am currently polishing my skills in Python and Django. Building Rest APIs. 
-I have built many projects with HTML, CSS and JS. One of them had a footfall of over 7000 people✨.
+I am a budding <strong>Django Developer</strong>, currently looking for work. I'm always up for collaborating on projects. So, if my skills can be useful for your project, do reach out to me on my <a href ="https://www.linkedin.com/in/utkarsh-agarwal-054545211/"> LinkedIn </a>.
+
